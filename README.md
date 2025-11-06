@@ -101,8 +101,7 @@ end;
 $$;
 ```
 
-Após isso, rode os arquivos nessa sequencia. 7. Vá em **Authentication → Sign In / Providers** e adicione ou ative o provedor de login por email+senha e desmarque a opção de verificação de email.
-8 . Agora só seguir lendo o README.
+Após isso, rode os arquivos nessa sequencia. 7. Vá em **Authentication → Sign In / Providers** e adicione ou ative o provedor de login por email+senha e desmarque a opção de verificação de email. 8. Agora só seguir lendo o README.
 
 ---
 
@@ -125,6 +124,7 @@ Após isso, rode os arquivos nessa sequencia. 7. Vá em **Authentication → Sig
 
 ```bash
 npm install --legacy-peer-deps
+npx prisma generate
 npm run dev
 ```
 
