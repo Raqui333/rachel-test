@@ -16,10 +16,12 @@ O objetivo é apresentar boas práticas de desenvolvimento, configuração de am
 
 ---
 
-![Preview do projeto - Dashboard](./docs/dashboard.png)
-![Preview do projeto - Admin Page](./docs/adminpage.png)
-![Preview do projeto - Moderator Page](./docs/modpage.png)
-![Preview do projeto - RAG Page](./docs/ragpage.png)
+<p align="center">
+  <img src="./docs/dashboard.png" width="45%" />
+  <img src="./docs/adminpage.png" width="45%" /><br/>
+  <img src="./docs/modpage.png" width="45%" />
+  <img src="./docs/ragpage.png" width="45%" />
+</p>
 
 ---
 
