@@ -16,6 +16,13 @@ O objetivo é apresentar boas práticas de desenvolvimento, configuração de am
 
 ---
 
+![Preview do projeto - Dashboard](./docs/dashboard.png)
+![Preview do projeto - Admin Page](./docs/adminpage.png)
+![Preview do projeto - Moderator Page](./docs/modpage.png)
+![Preview do projeto - RAG Page](./docs/ragpage.png)
+
+---
+
 ## Configuração do Supabase
 
 1. Crie um projeto no [Supabase](https://supabase.com/).
